@@ -1,1 +1,0 @@
-Versione V3 base professionale estendibile con IndexedDB, PIN e grafici.
